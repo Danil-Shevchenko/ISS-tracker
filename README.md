@@ -35,5 +35,3 @@ npm run dev
 ## 🔒 Security Note
 
 The API key is excluded from the repository. Please use your own key to run the project.
-
-```
